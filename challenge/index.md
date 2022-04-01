@@ -1,11 +1,11 @@
 <!--We chose the title 'Book Titles' because it describes the topic for today!-->
 # Book Titles
 
--To Kill A Mockingbird
--Pride & Prejudice
--Farenheit 451
--Uncle Tom's Cabin
--Grapes of Wrath
+1. To Kill A Mockingbird
+2. Pride & Prejudice
+3. Farenheit 451
+4. Uncle Tom's Cabin
+5. Grapes of Wrath
 
 ```ruby
 genres = ['fiction', 'non-fiction', 'science-fiction', 'biography', 'mystery']
